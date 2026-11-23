@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    justify-content: space-around;
+}
+
+h6{
+font-weight: 400;
+font-style: Regular;
+font-size: 32px;
+line-height: 36px;
+letter-spacing: 0%;
+
+}
+
+p{
+font-weight: 400;
+font-style: Regular;
+font-size: 15px;
+line-height: 24px;
+letter-spacing: 0%;
+
+}
